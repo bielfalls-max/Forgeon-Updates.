@@ -5,7 +5,7 @@ Implementação nova em `forgeon/`, sem importação de código ou banco do ERP 
 ## Verificado
 
 - Ambiente virtual novo com apenas dependências declaradas; `pip check` sem conflitos.
-- 31 testes locais Linux aprovados: 30 distribuídos e um teste privado adicional de
+- 32 testes locais Linux aprovados: 31 distribuídos e um teste privado adicional de
   compatibilidade com planilhas Shopee. Nenhum dado ou fixture privado acompanha o ZIP.
 - Dez páginas em banco vazio e com dados sintéticos; entrada/saída do event loop Qt.
 - Produtos canônicos e vínculos de anúncios/SKU; normalização não confunde Sonic e Super Sonic.
